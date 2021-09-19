@@ -1,0 +1,879 @@
+﻿ECC6 ECP Production                     Foreign Currency Valuation                     Time 08:57:28     Date  02.08.2017
+Brisbane                                                                       FAGL_FC_VALUATION/JGRABKA Page           1
+Ledger Group 0L Postings were generated
+
+
+	Ledger		CoCd	DocumentNo		Document Header Text		Typ		Pstng Date	Crcy		LCurr	LCur2	LCur3	Text
+	Itm	PK	G/L		    Amount in LC		      LC2 amount		      LC3 amount			Text
+
+			8800	6400004101		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921011		      15,890.17							100000 - Valuation on 20170731
+	  2	40	100020		      15,890.17							100000 - Valuation on 20170731
+	  3	40	921012		       3,999.58							100000 - Valuation on 20170731
+	  4	50	100020		       3,999.58							100000 - Valuation on 20170731
+
+			8800	6400004102		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921011		      15,890.17							100000 - Valuation on 20170731 Reverse
+	  2	50	100020		      15,890.17							100000 - Valuation on 20170731 Reverse
+	  3	50	921012		       3,999.58							100000 - Valuation on 20170731 Reverse
+	  4	40	100020		       3,999.58							100000 - Valuation on 20170731 Reverse
+
+			8800	6400004103		FC valuation		YR		31.07.2017	AUD		EUR
+	  1	40	921072		         651.24							100100 - Valuation on 20170731
+	  2	50	100120		         651.24							100100 - Valuation on 20170731
+	  3	50	921071		          38.38							100100 - Valuation on 20170731
+	  4	40	100120		          38.38							100100 - Valuation on 20170731
+
+			8800	6400004104		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921071		      15,585.06							100100 - Valuation on 20170731
+	  2	40	100120		      15,585.06							100100 - Valuation on 20170731
+	  3	40	921072		       5,993.95							100100 - Valuation on 20170731
+	  4	50	100120		       5,993.95							100100 - Valuation on 20170731
+
+			8800	6400004105		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921072		       6,536.35							100100 - Valuation on 20170731
+	  2	50	100120		       6,536.35							100100 - Valuation on 20170731
+
+			8800	6400004106		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921071		         551.68							100100 - Valuation on 20170731
+	  2	40	100120		         551.68							100100 - Valuation on 20170731
+
+			8800	6400004107		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921072		     270,618.75							100100 - Valuation on 20170731
+	  2	50	100120		     270,618.75							100100 - Valuation on 20170731
+	  3	50	921071		      13,828.31							100100 - Valuation on 20170731
+	  4	40	100120		      13,828.31							100100 - Valuation on 20170731
+
+			8800	6400004108		FC valuation		YR		31.07.2017	GBP		EUR
+	  1	40	921072		       1,630.24							100100 - Valuation on 20170731
+	  2	50	100120		       1,630.24							100100 - Valuation on 20170731
+
+			8800	6400004109		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921071		      10,403.80							100100 - Valuation on 20170731
+	  2	40	100120		      10,403.80							100100 - Valuation on 20170731
+	  3	40	921072		      25,330.66							100100 - Valuation on 20170731
+	  4	50	100120		      25,330.66							100100 - Valuation on 20170731
+
+			8800	6400004110		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921071		     366,943.78							100100 - Valuation on 20170731
+	  2	40	100120		     366,943.78							100100 - Valuation on 20170731
+
+			8800	6400004111		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921071		       1,854.81							100100 - Valuation on 20170731
+	  2	40	100120		       1,854.81							100100 - Valuation on 20170731
+
+			8800	6400004112		Reverse posting		YR		01.08.2017	AUD		EUR
+	  1	50	921072		         651.24							100100 - Valuation on 20170731 Reverse
+	  2	40	100120		         651.24							100100 - Valuation on 20170731 Reverse
+	  3	40	921071		          38.38							100100 - Valuation on 20170731 Reverse
+	  4	50	100120		          38.38							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004113		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921071		      15,585.06							100100 - Valuation on 20170731 Reverse
+	  2	50	100120		      15,585.06							100100 - Valuation on 20170731 Reverse
+	  3	50	921072		       5,993.95							100100 - Valuation on 20170731 Reverse
+	  4	40	100120		       5,993.95							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004114		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921072		       6,536.35							100100 - Valuation on 20170731 Reverse
+	  2	40	100120		       6,536.35							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004115		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921071		         551.68							100100 - Valuation on 20170731 Reverse
+	  2	50	100120		         551.68							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004116		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921072		     270,618.75							100100 - Valuation on 20170731 Reverse
+	  2	40	100120		     270,618.75							100100 - Valuation on 20170731 Reverse
+	  3	40	921071		      13,828.31							100100 - Valuation on 20170731 Reverse
+	  4	50	100120		      13,828.31							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004117		Reverse posting		YR		01.08.2017	GBP		EUR
+	  1	50	921072		       1,630.24							100100 - Valuation on 20170731 Reverse
+	  2	40	100120		       1,630.24							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004118		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921071		      10,403.80							100100 - Valuation on 20170731 Reverse
+	  2	50	100120		      10,403.80							100100 - Valuation on 20170731 Reverse
+	  3	50	921072		      25,330.66							100100 - Valuation on 20170731 Reverse
+	  4	40	100120		      25,330.66							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004119		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921071		     366,943.78							100100 - Valuation on 20170731 Reverse
+	  2	50	100120		     366,943.78							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004120		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921071		       1,854.81							100100 - Valuation on 20170731 Reverse
+	  2	50	100120		       1,854.81							100100 - Valuation on 20170731 Reverse
+
+			8800	6400004121		FC valuation		YR		31.07.2017	AUD		EUR
+	  1	50	921001		           4.40							300000 - Valuation on 20170731
+	  2	40	300020		           4.40							300000 - Valuation on 20170731
+	  3	40	921002		           4.44							300000 - Valuation on 20170731
+	  4	50	300020		           4.44							300000 - Valuation on 20170731
+
+			8800	6400004122		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921001		          97.74							300000 - Valuation on 20170731
+	  2	40	300020		          97.74							300000 - Valuation on 20170731
+	  3	40	921002		       3,411.23							300000 - Valuation on 20170731
+	  4	50	300020		       3,411.23							300000 - Valuation on 20170731
+
+			8800	6400004123		Reverse posting		YR		01.08.2017	AUD		EUR
+	  1	40	921001		           4.40							300000 - Valuation on 20170731 Reverse
+	  2	50	300020		           4.40							300000 - Valuation on 20170731 Reverse
+	  3	50	921002		           4.44							300000 - Valuation on 20170731 Reverse
+	  4	40	300020		           4.44							300000 - Valuation on 20170731 Reverse
+
+			8800	6400004124		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921001		          97.74							300000 - Valuation on 20170731 Reverse
+	  2	50	300020		          97.74							300000 - Valuation on 20170731 Reverse
+	  3	50	921002		       3,411.23							300000 - Valuation on 20170731 Reverse
+	  4	40	300020		       3,411.23							300000 - Valuation on 20170731 Reverse
+
+			8800	6400004125		FC valuation		YR		31.07.2017	AUD		EUR
+	  1	50	921061		          28.50							300100 - Valuation on 20170731
+	  2	40	300120		          28.50							300100 - Valuation on 20170731
+
+			8800	6400004126		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921062		          92.75							300100 - Valuation on 20170731
+	  2	50	300120		          92.75							300100 - Valuation on 20170731
+
+			8800	6400004127		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		       1,089.89							300100 - Valuation on 20170731
+	  2	40	300120		       1,089.89							300100 - Valuation on 20170731
+	  3	40	921062		           6.49							300100 - Valuation on 20170731
+	  4	50	300120		           6.49							300100 - Valuation on 20170731
+
+			8800	6400004128		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		      60,089.92							300100 - Valuation on 20170731
+	  2	40	300120		      60,089.92							300100 - Valuation on 20170731
+
+			8800	6400004129		FC valuation		YR		31.07.2017	GBP		EUR
+	  1	50	921061		          30.46							300100 - Valuation on 20170731
+	  2	40	300120		          30.46							300100 - Valuation on 20170731
+
+			8800	6400004130		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		          90.94							300100 - Valuation on 20170731
+	  2	40	300120		          90.94							300100 - Valuation on 20170731
+
+			8800	6400004131		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		       2,865.99							300100 - Valuation on 20170731
+	  2	40	300120		       2,865.99							300100 - Valuation on 20170731
+
+			8800	6400004132		Reverse posting		YR		01.08.2017	AUD		EUR
+	  1	40	921061		          28.50							300100 - Valuation on 20170731 Reverse
+	  2	50	300120		          28.50							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004133		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921062		          92.75							300100 - Valuation on 20170731 Reverse
+	  2	40	300120		          92.75							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004134		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		       1,089.89							300100 - Valuation on 20170731 Reverse
+	  2	50	300120		       1,089.89							300100 - Valuation on 20170731 Reverse
+	  3	50	921062		           6.49							300100 - Valuation on 20170731 Reverse
+	  4	40	300120		           6.49							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004135		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		      60,089.92							300100 - Valuation on 20170731 Reverse
+	  2	50	300120		      60,089.92							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004136		Reverse posting		YR		01.08.2017	GBP		EUR
+	  1	40	921061		          30.46							300100 - Valuation on 20170731 Reverse
+	  2	50	300120		          30.46							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004137		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		          90.94							300100 - Valuation on 20170731 Reverse
+	  2	50	300120		          90.94							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004138		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		       2,865.99							300100 - Valuation on 20170731 Reverse
+	  2	50	300120		       2,865.99							300100 - Valuation on 20170731 Reverse
+
+			8800	6400004139		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		     104,441.36							45000 - Valuation on 20170731
+	  2	50	45999		     104,441.36							45000 - Valuation on 20170731
+
+			8800	6400004140		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		     104,441.36							45000 - Valuation on 20170731 Reverse
+	  2	40	45999		     104,441.36							45000 - Valuation on 20170731 Reverse
+
+	0L		8800	6400004141		Z120170731010000105500		YR		31.07.2017	CHF		EUR
+	  1	40	921082		         683.11							105500 - Valuation on 20170731
+	  2	50	105500		         683.11							105500 - Valuation on 20170731
+
+	0L		8800	6400004142		Z120170731010000105500		YR		01.08.2017	CHF		EUR
+	  1	50	921082		         683.11							105500 - Valuation on 20170731 Reverse
+	  2	40	105500		         683.11							105500 - Valuation on 20170731 Reverse
+
+			8800	6400004143		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921072		         167.96							110000 - Valuation on 20170731
+	  2	50	110090		         167.96							110000 - Valuation on 20170731
+	  3	50	921071		           0.02							110000 - Valuation on 20170731
+	  4	40	110090		           0.02							110000 - Valuation on 20170731
+
+			8800	6400004144		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921072		          29.69							110000 - Valuation on 20170731
+	  2	50	110090		          29.69							110000 - Valuation on 20170731
+	  3	50	921071		          29.69							110000 - Valuation on 20170731
+	  4	40	110090		          29.69							110000 - Valuation on 20170731
+
+			8800	6400004145		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921072		           0.01							110000 - Valuation on 20170731
+	  2	50	110090		           0.01							110000 - Valuation on 20170731
+	  3	50	921071		           0.01							110000 - Valuation on 20170731
+	  4	40	110090		           0.01							110000 - Valuation on 20170731
+
+			8800	6400004146		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921072		      46,793.65							110000 - Valuation on 20170731
+	  2	50	110090		      46,793.65							110000 - Valuation on 20170731
+	  3	50	921071		      46,790.43							110000 - Valuation on 20170731
+	  4	40	110090		      46,790.43							110000 - Valuation on 20170731
+
+			8800	6400004147		FC valuation		YR		31.07.2017	JPY		EUR
+	  1	40	921072		       5,526.99							110000 - Valuation on 20170731
+	  2	50	110090		       5,526.99							110000 - Valuation on 20170731
+	  3	50	921071		         143.44							110000 - Valuation on 20170731
+	  4	40	110090		         143.44							110000 - Valuation on 20170731
+
+			8800	6400004148		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921071		          60.54							110000 - Valuation on 20170731
+	  2	40	110090		          60.54							110000 - Valuation on 20170731
+	  3	40	921072		          60.54							110000 - Valuation on 20170731
+	  4	50	110090		          60.54							110000 - Valuation on 20170731
+
+			8800	6400004149		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921072		         167.96							110000 - Valuation on 20170731 Reverse
+	  2	40	110090		         167.96							110000 - Valuation on 20170731 Reverse
+	  3	40	921071		           0.02							110000 - Valuation on 20170731 Reverse
+	  4	50	110090		           0.02							110000 - Valuation on 20170731 Reverse
+
+			8800	6400004150		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921072		          29.69							110000 - Valuation on 20170731 Reverse
+	  2	40	110090		          29.69							110000 - Valuation on 20170731 Reverse
+	  3	40	921071		          29.69							110000 - Valuation on 20170731 Reverse
+	  4	50	110090		          29.69							110000 - Valuation on 20170731 Reverse
+
+			8800	6400004151		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921072		           0.01							110000 - Valuation on 20170731 Reverse
+	  2	40	110090		           0.01							110000 - Valuation on 20170731 Reverse
+	  3	40	921071		           0.01							110000 - Valuation on 20170731 Reverse
+	  4	50	110090		           0.01							110000 - Valuation on 20170731 Reverse
+
+			8800	6400004152		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921072		      46,793.65							110000 - Valuation on 20170731 Reverse
+	  2	40	110090		      46,793.65							110000 - Valuation on 20170731 Reverse
+	  3	40	921071		      46,790.43							110000 - Valuation on 20170731 Reverse
+	  4	50	110090		      46,790.43							110000 - Valuation on 20170731 Reverse
+
+			8800	6400004153		Reverse posting		YR		01.08.2017	JPY		EUR
+	  1	50	921072		       5,526.99							110000 - Valuation on 20170731 Reverse
+	  2	40	110090		       5,526.99							110000 - Valuation on 20170731 Reverse
+	  3	40	921071		         143.44							110000 - Valuation on 20170731 Reverse
+	  4	50	110090		         143.44							110000 - Valuation on 20170731 Reverse
+
+			8800	6400004154		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921071		          60.54							110000 - Valuation on 20170731 Reverse
+	  2	50	110090		          60.54							110000 - Valuation on 20170731 Reverse
+	  3	50	921072		          60.54							110000 - Valuation on 20170731 Reverse
+	  4	40	110090		          60.54							110000 - Valuation on 20170731 Reverse
+
+			8800	6400004155		FC valuation		YR		31.07.2017	AUD		EUR
+	  1	40	921022		          43.78							160001 - Valuation on 20170731
+	  2	50	169000		          43.78							160001 - Valuation on 20170731
+	  3	50	921021		          43.78							160001 - Valuation on 20170731
+	  4	40	169000		          43.78							160001 - Valuation on 20170731
+
+			8800	6400004156		FC valuation		YR		31.07.2017	CAD		EUR
+	  1	50	921021		       2,118.98							160001 - Valuation on 20170731
+	  2	40	169000		       2,118.98							160001 - Valuation on 20170731
+	  3	40	921022		       2,118.98							160001 - Valuation on 20170731
+	  4	50	169000		       2,118.98							160001 - Valuation on 20170731
+
+			8800	6400004157		FC valuation		YR		31.07.2017	CHF		EUR
+	  1	40	921022		       2,549.90							160001 - Valuation on 20170731
+	  2	50	169000		       2,549.90							160001 - Valuation on 20170731
+	  3	50	921021		       2,549.90							160001 - Valuation on 20170731
+	  4	40	169000		       2,549.90							160001 - Valuation on 20170731
+
+			8800	6400004158		FC valuation		YR		31.07.2017	GBP		EUR
+	  1	40	921022		         314.70							160001 - Valuation on 20170731
+	  2	50	169000		         314.70							160001 - Valuation on 20170731
+	  3	50	921021		         314.70							160001 - Valuation on 20170731
+	  4	40	169000		         314.70							160001 - Valuation on 20170731
+
+			8800	6400004159		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923022		      10,316.36							160001 - Valuation on 20170731
+	  2	50	169000		      10,316.36							160001 - Valuation on 20170731
+	  3	50	923021		      10,316.36							160001 - Valuation on 20170731
+	  4	40	169000		      10,316.36							160001 - Valuation on 20170731
+
+			8800	6400004160		FC valuation		YR		31.07.2017	ZAR		EUR
+	  1	50	921021		         129.42							160001 - Valuation on 20170731
+	  2	40	169000		         129.42							160001 - Valuation on 20170731
+	  3	40	921022		         129.42							160001 - Valuation on 20170731
+	  4	50	169000		         129.42							160001 - Valuation on 20170731
+
+			8800	6400004161		FC valuation		YR		31.07.2017	MXN		EUR
+	  1	40	921022		          45.38							160001 - Valuation on 20170731
+	  2	50	169000		          45.38							160001 - Valuation on 20170731
+	  3	50	921021		          45.38							160001 - Valuation on 20170731
+	  4	40	169000		          45.38							160001 - Valuation on 20170731
+
+			8800	6400004162		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923021		       8,041.54							160001 - Valuation on 20170731
+	  2	40	169000		       8,041.54							160001 - Valuation on 20170731
+	  3	40	923022		       8,041.54							160001 - Valuation on 20170731
+	  4	50	169000		       8,041.54							160001 - Valuation on 20170731
+
+			8800	6400004163		Reverse posting		YR		01.08.2017	AUD		EUR
+	  1	50	921022		          43.78							160001 - Valuation on 20170731 Reverse
+	  2	40	169000		          43.78							160001 - Valuation on 20170731 Reverse
+	  3	40	921021		          43.78							160001 - Valuation on 20170731 Reverse
+	  4	50	169000		          43.78							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004164		Reverse posting		YR		01.08.2017	CAD		EUR
+	  1	40	921021		       2,118.98							160001 - Valuation on 20170731 Reverse
+	  2	50	169000		       2,118.98							160001 - Valuation on 20170731 Reverse
+	  3	50	921022		       2,118.98							160001 - Valuation on 20170731 Reverse
+	  4	40	169000		       2,118.98							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004165		Reverse posting		YR		01.08.2017	CHF		EUR
+	  1	50	921022		       2,549.90							160001 - Valuation on 20170731 Reverse
+	  2	40	169000		       2,549.90							160001 - Valuation on 20170731 Reverse
+	  3	40	921021		       2,549.90							160001 - Valuation on 20170731 Reverse
+	  4	50	169000		       2,549.90							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004166		Reverse posting		YR		01.08.2017	GBP		EUR
+	  1	50	921022		         314.70							160001 - Valuation on 20170731 Reverse
+	  2	40	169000		         314.70							160001 - Valuation on 20170731 Reverse
+	  3	40	921021		         314.70							160001 - Valuation on 20170731 Reverse
+	  4	50	169000		         314.70							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004167		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923022		      10,316.36							160001 - Valuation on 20170731 Reverse
+	  2	40	169000		      10,316.36							160001 - Valuation on 20170731 Reverse
+	  3	40	923021		      10,316.36							160001 - Valuation on 20170731 Reverse
+	  4	50	169000		      10,316.36							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004168		Reverse posting		YR		01.08.2017	ZAR		EUR
+	  1	40	921021		         129.42							160001 - Valuation on 20170731 Reverse
+	  2	50	169000		         129.42							160001 - Valuation on 20170731 Reverse
+	  3	50	921022		         129.42							160001 - Valuation on 20170731 Reverse
+	  4	40	169000		         129.42							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004169		Reverse posting		YR		01.08.2017	MXN		EUR
+	  1	50	921022		          45.38							160001 - Valuation on 20170731 Reverse
+	  2	40	169000		          45.38							160001 - Valuation on 20170731 Reverse
+	  3	40	921021		          45.38							160001 - Valuation on 20170731 Reverse
+	  4	50	169000		          45.38							160001 - Valuation on 20170731 Reverse
+
+			8800	6400004170		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923021		       8,041.54							160001 - Valuation on 20170731 Reverse
+	  2	50	169000		       8,041.54							160001 - Valuation on 20170731 Reverse
+	  3	50	923022		       8,041.54							160001 - Valuation on 20170731 Reverse
+	  4	40	169000		       8,041.54							160001 - Valuation on 20170731 Reverse
+
+	0L		8800	6400004171		Z120170731010000160500		YR		31.07.2017	USD		EUR
+	  1	50	923021		           0.01							160500 - Valuation on 20170731
+	  2	40	160505		           0.01							160500 - Valuation on 20170731
+
+	0L		8800	6400004172		Z120170731010000160500		YR		01.08.2017	USD		EUR
+	  1	40	923021		           0.01							160500 - Valuation on 20170731 Reverse
+	  2	50	160505		           0.01							160500 - Valuation on 20170731 Reverse
+
+			8800	6400004173		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923021		     310,386.63							160501 - Valuation on 20170731
+	  2	40	160505		     310,386.63							160501 - Valuation on 20170731
+	  3	40	923022		     310,386.63							160501 - Valuation on 20170731
+	  4	50	160505		     310,386.63							160501 - Valuation on 20170731
+
+			8800	6400004174		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923021		     310,386.63							160501 - Valuation on 20170731 Reverse
+	  2	50	160505		     310,386.63							160501 - Valuation on 20170731 Reverse
+	  3	50	923022		     310,386.63							160501 - Valuation on 20170731 Reverse
+	  4	40	160505		     310,386.63							160501 - Valuation on 20170731 Reverse
+
+	0L		8800	6400004175		Z120170731010000174500		YR		31.07.2017	USD		EUR
+	  1	40	923082		  68,006,412.84							174500 - Valuation on 20170731
+	  2	50	174505		  68,006,412.84							174500 - Valuation on 20170731
+
+	0L		8800	6400004176		Z120170731010000174500		YR		01.08.2017	USD		EUR
+	  1	50	923082		  68,006,412.84							174500 - Valuation on 20170731 Reverse
+	  2	40	174505		  68,006,412.84							174500 - Valuation on 20170731 Reverse
+
+			8800	6400004177		FC valuation		YR		31.07.2017	CAD		EUR
+	  1	50	923081		      79,479.43							195500 - Valuation on 20170731
+	  2	40	195599		      79,479.43							195500 - Valuation on 20170731
+	  3	40	923082		          23.98							195500 - Valuation on 20170731
+	  4	50	195599		          23.98							195500 - Valuation on 20170731
+
+			8800	6400004178		FC valuation		YR		31.07.2017	CAD		EUR
+	  1	50	923081		       3,253.73							195500 - Valuation on 20170731
+	  2	40	195599		       3,253.73							195500 - Valuation on 20170731
+	  3	40	923082		       3,253.73							195500 - Valuation on 20170731
+	  4	50	195599		       3,253.73							195500 - Valuation on 20170731
+
+			8800	6400004179		FC valuation		YR		31.07.2017	CHF		EUR
+	  1	40	923082		       8,905.78							195500 - Valuation on 20170731
+	  2	50	195599		       8,905.78							195500 - Valuation on 20170731
+	  3	50	923081		       8,905.78							195500 - Valuation on 20170731
+	  4	40	195599		       8,905.78							195500 - Valuation on 20170731
+
+			8800	6400004180		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		   3,489,543.89							195500 - Valuation on 20170731
+	  2	50	195599		   3,489,543.89							195500 - Valuation on 20170731
+	  3	50	923081		   6,026,516.88							195500 - Valuation on 20170731
+	  4	40	195599		   6,026,516.88							195500 - Valuation on 20170731
+
+			8800	6400004181		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		  19,407,389.79							195500 - Valuation on 20170731
+	  2	50	195599		  19,407,389.79							195500 - Valuation on 20170731
+	  3	50	923081		   6,995,428.06							195500 - Valuation on 20170731
+	  4	40	195599		   6,995,428.06							195500 - Valuation on 20170731
+
+			8800	6400004182		FC valuation		YR		31.07.2017	CAD		EUR
+	  1	40	923082		      13,319.88							195500 - Valuation on 20170731
+	  2	50	195599		      13,319.88							195500 - Valuation on 20170731
+	  3	50	923081		      13,319.88							195500 - Valuation on 20170731
+	  4	40	195599		      13,319.88							195500 - Valuation on 20170731
+
+			8800	6400004183		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		      33,696.73							195500 - Valuation on 20170731
+	  2	50	195599		      33,696.73							195500 - Valuation on 20170731
+	  3	50	923081		       1,852.75							195500 - Valuation on 20170731
+	  4	40	195599		       1,852.75							195500 - Valuation on 20170731
+
+			8800	6400004184		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		          23.91							195500 - Valuation on 20170731
+	  2	50	195599		          23.91							195500 - Valuation on 20170731
+	  3	50	923081		           0.60							195500 - Valuation on 20170731
+	  4	40	195599		           0.60							195500 - Valuation on 20170731
+
+			8800	6400004185		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		     601,375.03							195500 - Valuation on 20170731
+	  2	50	195599		     601,375.03							195500 - Valuation on 20170731
+	  3	50	923081		     601,375.03							195500 - Valuation on 20170731
+	  4	40	195599		     601,375.03							195500 - Valuation on 20170731
+
+			8800	6400004186		FC valuation		YR		31.07.2017	AUD		EUR
+	  1	40	923082		         103.58							195500 - Valuation on 20170731
+	  2	50	195599		         103.58							195500 - Valuation on 20170731
+	  3	50	923081		         103.58							195500 - Valuation on 20170731
+	  4	40	195599		         103.58							195500 - Valuation on 20170731
+
+			8800	6400004187		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		   4,446,849.37							195500 - Valuation on 20170731
+	  2	50	195599		   4,446,849.37							195500 - Valuation on 20170731
+	  3	50	923081		   7,712,527.13							195500 - Valuation on 20170731
+	  4	40	195599		   7,712,527.13							195500 - Valuation on 20170731
+
+			8800	6400004188		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		   3,602,320.61							195500 - Valuation on 20170731
+	  2	50	195599		   3,602,320.61							195500 - Valuation on 20170731
+	  3	50	923081		   7,232,977.50							195500 - Valuation on 20170731
+	  4	40	195599		   7,232,977.50							195500 - Valuation on 20170731
+
+			8800	6400004189		FC valuation		YR		31.07.2017	CHF		EUR
+	  1	50	923081		   3,625,106.94							195500 - Valuation on 20170731
+	  2	40	195599		   3,625,106.94							195500 - Valuation on 20170731
+	  3	40	923082		   2,173,879.30							195500 - Valuation on 20170731
+	  4	50	195599		   2,173,879.30							195500 - Valuation on 20170731
+
+			8800	6400004190		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923081		     553,107.01							195500 - Valuation on 20170731
+	  2	40	195599		     553,107.01							195500 - Valuation on 20170731
+	  3	40	923082		     423,120.80							195500 - Valuation on 20170731
+	  4	50	195599		     423,120.80							195500 - Valuation on 20170731
+
+			8800	6400004191		FC valuation		YR		31.07.2017	JPY		EUR
+	  1	50	923081		     277,771.86							195500 - Valuation on 20170731
+	  2	40	195599		     277,771.86							195500 - Valuation on 20170731
+
+			8800	6400004192		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923081		          36.82							195500 - Valuation on 20170731
+	  2	40	195599		          36.82							195500 - Valuation on 20170731
+
+			8800	6400004193		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923082		          36.82							195500 - Valuation on 20170731
+	  2	50	195599		          36.82							195500 - Valuation on 20170731
+	  3	50	923081		         565.21							195500 - Valuation on 20170731
+	  4	40	195599		         565.21							195500 - Valuation on 20170731
+
+			8800	6400004194		Reverse posting		YR		01.08.2017	CAD		EUR
+	  1	40	923081		      79,479.43							195500 - Valuation on 20170731 Reverse
+	  2	50	195599		      79,479.43							195500 - Valuation on 20170731 Reverse
+	  3	50	923082		          23.98							195500 - Valuation on 20170731 Reverse
+	  4	40	195599		          23.98							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004195		Reverse posting		YR		01.08.2017	CAD		EUR
+	  1	40	923081		       3,253.73							195500 - Valuation on 20170731 Reverse
+	  2	50	195599		       3,253.73							195500 - Valuation on 20170731 Reverse
+	  3	50	923082		       3,253.73							195500 - Valuation on 20170731 Reverse
+	  4	40	195599		       3,253.73							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004196		Reverse posting		YR		01.08.2017	CHF		EUR
+	  1	50	923082		       8,905.78							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		       8,905.78							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		       8,905.78							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		       8,905.78							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004197		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		   3,489,543.89							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		   3,489,543.89							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		   6,026,516.88							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		   6,026,516.88							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004198		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		  19,407,389.79							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		  19,407,389.79							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		   6,995,428.06							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		   6,995,428.06							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004199		Reverse posting		YR		01.08.2017	CAD		EUR
+	  1	50	923082		      13,319.88							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		      13,319.88							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		      13,319.88							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		      13,319.88							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004200		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		      33,696.73							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		      33,696.73							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		       1,852.75							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		       1,852.75							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004201		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		          23.91							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		          23.91							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		           0.60							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		           0.60							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004202		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		     601,375.03							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		     601,375.03							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		     601,375.03							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		     601,375.03							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004203		Reverse posting		YR		01.08.2017	AUD		EUR
+	  1	50	923082		         103.58							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		         103.58							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		         103.58							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		         103.58							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004204		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		   4,446,849.37							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		   4,446,849.37							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		   7,712,527.13							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		   7,712,527.13							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004205		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		   3,602,320.61							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		   3,602,320.61							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		   7,232,977.50							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		   7,232,977.50							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004206		Reverse posting		YR		01.08.2017	CHF		EUR
+	  1	40	923081		   3,625,106.94							195500 - Valuation on 20170731 Reverse
+	  2	50	195599		   3,625,106.94							195500 - Valuation on 20170731 Reverse
+	  3	50	923082		   2,173,879.30							195500 - Valuation on 20170731 Reverse
+	  4	40	195599		   2,173,879.30							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004207		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923081		     553,107.01							195500 - Valuation on 20170731 Reverse
+	  2	50	195599		     553,107.01							195500 - Valuation on 20170731 Reverse
+	  3	50	923082		     423,120.80							195500 - Valuation on 20170731 Reverse
+	  4	40	195599		     423,120.80							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004208		Reverse posting		YR		01.08.2017	JPY		EUR
+	  1	40	923081		     277,771.86							195500 - Valuation on 20170731 Reverse
+	  2	50	195599		     277,771.86							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004209		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923081		          36.82							195500 - Valuation on 20170731 Reverse
+	  2	50	195599		          36.82							195500 - Valuation on 20170731 Reverse
+
+			8800	6400004210		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923082		          36.82							195500 - Valuation on 20170731 Reverse
+	  2	40	195599		          36.82							195500 - Valuation on 20170731 Reverse
+	  3	40	923081		         565.21							195500 - Valuation on 20170731 Reverse
+	  4	50	195599		         565.21							195500 - Valuation on 20170731 Reverse
+
+	0L		8800	6400004211		Z120170731010000280210		YR		31.07.2017	USD		EUR
+	  1	40	923042		     756,000.02							280210 - Valuation on 20170731
+	  2	50	280210		     756,000.02							280210 - Valuation on 20170731
+
+	0L		8800	6400004212		Z120170731010000280210		YR		01.08.2017	USD		EUR
+	  1	50	923042		     756,000.02							280210 - Valuation on 20170731 Reverse
+	  2	40	280210		     756,000.02							280210 - Valuation on 20170731 Reverse
+
+			8800	6400004213		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	923072		     138,923.12							283100 - Valuation on 20170731
+	  2	50	283109		     138,923.12							283100 - Valuation on 20170731
+	  3	50	923071		     105,802.04							283100 - Valuation on 20170731
+	  4	40	283109		     105,802.04							283100 - Valuation on 20170731
+
+			8800	6400004214		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	923072		     138,923.12							283100 - Valuation on 20170731 Reverse
+	  2	40	283109		     138,923.12							283100 - Valuation on 20170731 Reverse
+	  3	40	923071		     105,802.04							283100 - Valuation on 20170731 Reverse
+	  4	50	283109		     105,802.04							283100 - Valuation on 20170731 Reverse
+
+	0L		8800	6400004215		Z120170731010000295000		YR		31.07.2017	USD		EUR
+	  1	50	921096		  18,946,224.54							295000 - Valuation on 20170731
+	  2	40	295000		  18,946,224.54							295000 - Valuation on 20170731
+
+	0L		8800	6400004216		Z120170731010000295000		YR		01.08.2017	USD		EUR
+	  1	40	921096		  18,946,224.54							295000 - Valuation on 20170731 Reverse
+	  2	50	295000		  18,946,224.54							295000 - Valuation on 20170731 Reverse
+
+			8800	6400004217		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		       1,925.72							300115 - Valuation on 20170731
+	  2	40	300120		       1,925.72							300115 - Valuation on 20170731
+
+			8800	6400004218		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		       9,668.63							300115 - Valuation on 20170731
+	  2	40	300120		       9,668.63							300115 - Valuation on 20170731
+	  3	40	921062		         391.78							300115 - Valuation on 20170731
+	  4	50	300120		         391.78							300115 - Valuation on 20170731
+
+			8800	6400004219		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		       1,925.72							300115 - Valuation on 20170731 Reverse
+	  2	50	300120		       1,925.72							300115 - Valuation on 20170731 Reverse
+
+			8800	6400004220		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		       9,668.63							300115 - Valuation on 20170731 Reverse
+	  2	50	300120		       9,668.63							300115 - Valuation on 20170731 Reverse
+	  3	50	921062		         391.78							300115 - Valuation on 20170731 Reverse
+	  4	40	300120		         391.78							300115 - Valuation on 20170731 Reverse
+
+			8800	6400004221		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921062		       9,612.38							310000 - Valuation on 20170731
+	  2	50	310099		       9,612.38							310000 - Valuation on 20170731
+	  3	50	921061		       9,611.80							310000 - Valuation on 20170731
+	  4	40	310099		       9,611.80							310000 - Valuation on 20170731
+
+			8800	6400004222		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		      14,292.04							310000 - Valuation on 20170731
+	  2	40	310099		      14,292.04							310000 - Valuation on 20170731
+	  3	40	921062		      14,291.22							310000 - Valuation on 20170731
+	  4	50	310099		      14,291.22							310000 - Valuation on 20170731
+
+			8800	6400004223		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		       2,408.85							310000 - Valuation on 20170731
+	  2	40	310099		       2,408.85							310000 - Valuation on 20170731
+	  3	40	921062		       2,408.70							310000 - Valuation on 20170731
+	  4	50	310099		       2,408.70							310000 - Valuation on 20170731
+
+			8800	6400004224		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		       8,868.82							310000 - Valuation on 20170731
+	  2	40	310099		       8,868.82							310000 - Valuation on 20170731
+	  3	40	921062		       8,868.30							310000 - Valuation on 20170731
+	  4	50	310099		       8,868.30							310000 - Valuation on 20170731
+
+			8800	6400004225		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921061		          48.97							310000 - Valuation on 20170731
+	  2	40	310099		          48.97							310000 - Valuation on 20170731
+	  3	40	921062		          48.97							310000 - Valuation on 20170731
+	  4	50	310099		          48.97							310000 - Valuation on 20170731
+
+			8800	6400004226		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921062		       9,612.38							310000 - Valuation on 20170731 Reverse
+	  2	40	310099		       9,612.38							310000 - Valuation on 20170731 Reverse
+	  3	40	921061		       9,611.80							310000 - Valuation on 20170731 Reverse
+	  4	50	310099		       9,611.80							310000 - Valuation on 20170731 Reverse
+
+			8800	6400004227		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		      14,292.04							310000 - Valuation on 20170731 Reverse
+	  2	50	310099		      14,292.04							310000 - Valuation on 20170731 Reverse
+	  3	50	921062		      14,291.22							310000 - Valuation on 20170731 Reverse
+	  4	40	310099		      14,291.22							310000 - Valuation on 20170731 Reverse
+
+			8800	6400004228		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		       2,408.85							310000 - Valuation on 20170731 Reverse
+	  2	50	310099		       2,408.85							310000 - Valuation on 20170731 Reverse
+	  3	50	921062		       2,408.70							310000 - Valuation on 20170731 Reverse
+	  4	40	310099		       2,408.70							310000 - Valuation on 20170731 Reverse
+
+			8800	6400004229		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		       8,868.82							310000 - Valuation on 20170731 Reverse
+	  2	50	310099		       8,868.82							310000 - Valuation on 20170731 Reverse
+	  3	50	921062		       8,868.30							310000 - Valuation on 20170731 Reverse
+	  4	40	310099		       8,868.30							310000 - Valuation on 20170731 Reverse
+
+			8800	6400004230		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921061		          48.97							310000 - Valuation on 20170731 Reverse
+	  2	50	310099		          48.97							310000 - Valuation on 20170731 Reverse
+	  3	50	921062		          48.97							310000 - Valuation on 20170731 Reverse
+	  4	40	310099		          48.97							310000 - Valuation on 20170731 Reverse
+
+	0L		8800	6400004231		Z120170731010000337000		YR		31.07.2017	USD		EUR
+	  1	50	921096		     683,435.94							337000 - Valuation on 20170731
+	  2	40	337000		     683,435.94							337000 - Valuation on 20170731
+
+	0L		8800	6400004232		Z120170731010000337000		YR		01.08.2017	USD		EUR
+	  1	40	921096		     683,435.94							337000 - Valuation on 20170731 Reverse
+	  2	50	337000		     683,435.94							337000 - Valuation on 20170731 Reverse
+
+			8800	6400004233		FC valuation		YR		31.07.2017	CHF		EUR
+	  1	50	921001		       6,562.32							344020 - Valuation on 20170731
+	  2	40	344999		       6,562.32							344020 - Valuation on 20170731
+	  3	40	921002		       8,839.93							344020 - Valuation on 20170731
+	  4	50	344999		       8,839.93							344020 - Valuation on 20170731
+
+			8800	6400004234		FC valuation		YR		31.07.2017	USD		EUR
+	  1	40	921002		     246,012.24							344020 - Valuation on 20170731
+	  2	50	344999		     246,012.24							344020 - Valuation on 20170731
+	  3	50	921001		     170,246.86							344020 - Valuation on 20170731
+	  4	40	344999		     170,246.86							344020 - Valuation on 20170731
+
+			8800	6400004235		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921001		      79,508.60							344020 - Valuation on 20170731
+	  2	40	344999		      79,508.60							344020 - Valuation on 20170731
+	  3	40	921002		       3,743.22							344020 - Valuation on 20170731
+	  4	50	344999		       3,743.22							344020 - Valuation on 20170731
+
+			8800	6400004236		FC valuation		YR		31.07.2017	CHF		EUR
+	  1	40	921002		         401.42							344020 - Valuation on 20170731
+	  2	50	344999		         401.42							344020 - Valuation on 20170731
+	  3	50	921001		       2,679.03							344020 - Valuation on 20170731
+	  4	40	344999		       2,679.03							344020 - Valuation on 20170731
+
+			8800	6400004237		Reverse posting		YR		01.08.2017	CHF		EUR
+	  1	40	921001		       6,562.32							344020 - Valuation on 20170731 Reverse
+	  2	50	344999		       6,562.32							344020 - Valuation on 20170731 Reverse
+	  3	50	921002		       8,839.93							344020 - Valuation on 20170731 Reverse
+	  4	40	344999		       8,839.93							344020 - Valuation on 20170731 Reverse
+
+			8800	6400004238		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	50	921002		     246,012.24							344020 - Valuation on 20170731 Reverse
+	  2	40	344999		     246,012.24							344020 - Valuation on 20170731 Reverse
+	  3	40	921001		     170,246.86							344020 - Valuation on 20170731 Reverse
+	  4	50	344999		     170,246.86							344020 - Valuation on 20170731 Reverse
+
+			8800	6400004239		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921001		      79,508.60							344020 - Valuation on 20170731 Reverse
+	  2	50	344999		      79,508.60							344020 - Valuation on 20170731 Reverse
+	  3	50	921002		       3,743.22							344020 - Valuation on 20170731 Reverse
+	  4	40	344999		       3,743.22							344020 - Valuation on 20170731 Reverse
+
+			8800	6400004240		Reverse posting		YR		01.08.2017	CHF		EUR
+	  1	50	921002		         401.42							344020 - Valuation on 20170731 Reverse
+	  2	40	344999		         401.42							344020 - Valuation on 20170731 Reverse
+	  3	40	921001		       2,679.03							344020 - Valuation on 20170731 Reverse
+	  4	50	344999		       2,679.03							344020 - Valuation on 20170731 Reverse
+
+			8800	6400004241		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	921001		       5,438.38							344101 - Valuation on 20170731
+	  2	40	344999		       5,438.38							344101 - Valuation on 20170731
+	  3	40	921002		       5,438.38							344101 - Valuation on 20170731
+	  4	50	344999		       5,438.38							344101 - Valuation on 20170731
+
+			8800	6400004242		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	921001		       5,438.38							344101 - Valuation on 20170731 Reverse
+	  2	50	344999		       5,438.38							344101 - Valuation on 20170731 Reverse
+	  3	50	921002		       5,438.38							344101 - Valuation on 20170731 Reverse
+	  4	40	344999		       5,438.38							344101 - Valuation on 20170731 Reverse
+
+			8800	6400004243		FC valuation		YR		31.07.2017	CAD		EUR
+	  1	40	923072		     119,116.61							360010 - Valuation on 20170731
+	  2	50	360599		     119,116.61							360010 - Valuation on 20170731
+	  3	50	923071		         685.61							360010 - Valuation on 20170731
+	  4	40	360599		         685.61							360010 - Valuation on 20170731
+
+			8800	6400004244		FC valuation		YR		31.07.2017	CAD		EUR
+	  1	50	923071		      66,095.57							360010 - Valuation on 20170731
+	  2	40	360599		      66,095.57							360010 - Valuation on 20170731
+	  3	40	923072		      66,095.57							360010 - Valuation on 20170731
+	  4	50	360599		      66,095.57							360010 - Valuation on 20170731
+
+			8800	6400004245		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923071		   8,043,217.74							360010 - Valuation on 20170731
+	  2	40	360599		   8,043,217.74							360010 - Valuation on 20170731
+	  3	40	923072		   5,563,666.78							360010 - Valuation on 20170731
+	  4	50	360599		   5,563,666.78							360010 - Valuation on 20170731
+
+			8800	6400004246		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923071		   5,559,916.04							360010 - Valuation on 20170731
+	  2	40	360599		   5,559,916.04							360010 - Valuation on 20170731
+	  3	40	923072		   5,512,664.31							360010 - Valuation on 20170731
+	  4	50	360599		   5,512,664.31							360010 - Valuation on 20170731
+
+			8800	6400004247		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923071		           1.89							360010 - Valuation on 20170731
+	  2	40	360599		           1.89							360010 - Valuation on 20170731
+
+			8800	6400004248		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923071		  22,875,385.76							360010 - Valuation on 20170731
+	  2	40	360599		  22,875,385.76							360010 - Valuation on 20170731
+	  3	40	923072		     416,004.42							360010 - Valuation on 20170731
+	  4	50	360599		     416,004.42							360010 - Valuation on 20170731
+
+			8800	6400004249		FC valuation		YR		31.07.2017	CHF		EUR
+	  1	50	923071		   2,815,554.57							360010 - Valuation on 20170731
+	  2	40	360599		   2,815,554.57							360010 - Valuation on 20170731
+	  3	40	923072		      31,094.30							360010 - Valuation on 20170731
+	  4	50	360599		      31,094.30							360010 - Valuation on 20170731
+
+			8800	6400004250		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923071		     156,151.20							360010 - Valuation on 20170731
+	  2	40	360599		     156,151.20							360010 - Valuation on 20170731
+	  3	40	923072		     156,151.20							360010 - Valuation on 20170731
+	  4	50	360599		     156,151.20							360010 - Valuation on 20170731
+
+			8800	6400004251		FC valuation		YR		31.07.2017	USD		EUR
+	  1	50	923071		     124,755.70							360010 - Valuation on 20170731
+	  2	40	360599		     124,755.70							360010 - Valuation on 20170731
+	  3	40	923072		     224,214.86							360010 - Valuation on 20170731
+	  4	50	360599		     224,214.86							360010 - Valuation on 20170731
+
+			8800	6400004252		Reverse posting		YR		01.08.2017	CAD		EUR
+	  1	50	923072		     119,116.61							360010 - Valuation on 20170731 Reverse
+	  2	40	360599		     119,116.61							360010 - Valuation on 20170731 Reverse
+	  3	40	923071		         685.61							360010 - Valuation on 20170731 Reverse
+	  4	50	360599		         685.61							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004253		Reverse posting		YR		01.08.2017	CAD		EUR
+	  1	40	923071		      66,095.57							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		      66,095.57							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		      66,095.57							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		      66,095.57							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004254		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923071		   8,043,217.74							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		   8,043,217.74							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		   5,563,666.78							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		   5,563,666.78							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004255		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923071		   5,559,916.04							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		   5,559,916.04							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		   5,512,664.31							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		   5,512,664.31							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004256		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923071		           1.89							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		           1.89							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004257		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923071		  22,875,385.76							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		  22,875,385.76							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		     416,004.42							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		     416,004.42							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004258		Reverse posting		YR		01.08.2017	CHF		EUR
+	  1	40	923071		   2,815,554.57							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		   2,815,554.57							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		      31,094.30							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		      31,094.30							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004259		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923071		     156,151.20							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		     156,151.20							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		     156,151.20							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		     156,151.20							360010 - Valuation on 20170731 Reverse
+
+			8800	6400004260		Reverse posting		YR		01.08.2017	USD		EUR
+	  1	40	923071		     124,755.70							360010 - Valuation on 20170731 Reverse
+	  2	50	360599		     124,755.70							360010 - Valuation on 20170731 Reverse
+	  3	50	923072		     224,214.86							360010 - Valuation on 20170731 Reverse
+	  4	40	360599		     224,214.86							360010 - Valuation on 20170731 Reverse
